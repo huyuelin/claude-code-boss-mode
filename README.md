@@ -1,8 +1,18 @@
+<div align="center">
+
+<img src="social-preview.png" alt="Boss Mode for Claude Code" width="800">
+
 # claude-code-boss-mode
 
 > Not a Claude Code clone. A boss layer for Claude Code.
 >
 > If Claude Code is the engineer, this plugin is the boss.
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Claude Code](https://img.shields.io/badge/Claude%20Code-Plugin-blueviolet)](https://claude.ai/code)
+[![Boss Mode](https://img.shields.io/badge/Boss%20Mode-v1.0-FF6B35)](https://github.com/huyuelin/claude-code-boss-mode)
+
+</div>
 
 ## What This Does
 
