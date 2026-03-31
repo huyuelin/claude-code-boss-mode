@@ -101,7 +101,17 @@ If cache hits are >60%, then consider Redis."
 
 Result: 3 weeks → 3 days. Real impact measurement upfront.
 
+<div align="center">
+<img src="assets/boss-pr-demo.png" alt="Boss PR Review Demo" width="700">
+<p><em>Before vs After: Boss Mode catches overengineering and cuts to minimum shippable version</em></p>
+</div>
+
 ## Three Boss Perspectives
+
+<div align="center">
+<img src="assets/three-bosses.png" alt="Three Boss Perspectives" width="700">
+<p><em>CEO, Engineering Manager, and PM: three lenses on every decision</em></p>
+</div>
 
 ### CEO Boss
 
