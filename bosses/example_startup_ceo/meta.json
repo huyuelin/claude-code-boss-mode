@@ -1,0 +1,13 @@
+{
+  "name": "Alex Chen",
+  "slug": "example_startup_ceo",
+  "type": "ceo",
+  "company": "Example Startup",
+  "created_at": "2026-03-31T00:00:00Z",
+  "updated_at": "2026-03-31T00:00:00Z",
+  "version": "v1",
+  "tags": {
+    "style": ["impatient", "outcome-focused", "demo-driven"],
+    "priorities": ["speed", "user-value", "market-timing"]
+  }
+}

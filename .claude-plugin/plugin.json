@@ -1,0 +1,27 @@
+{
+  "name": "boss-mode",
+  "version": "1.0.0",
+  "description": "Boss layer for Claude Code: ruthless product decisions, PR reviews, and scope cutting",
+  "author": {
+    "name": "Yuelin Hu",
+    "email": "huyuelin@126.com"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:huyuelin/claude-code-boss-mode.git"
+  },
+  "keywords": [
+    "claude-code",
+    "plugin",
+    "boss",
+    "product-management",
+    "scope-cutting",
+    "pr-review",
+    "decision-making"
+  ],
+  "commandsPath": "commands",
+  "agentsPath": "agents",
+  "skillsPath": "skills",
+  "main": "SKILL.md"
+}
